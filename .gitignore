@@ -1,0 +1,23 @@
+﻿# This is the PUBLIC distribution repo: docs and release artifacts only.
+# Module source lives in a separate private repo and must never be committed here.
+
+# never commit source
+gateway/
+common/
+web/
+gradle/
+*.gradle.kts
+gradlew*
+src/
+
+# signing material
+*.p12
+*.jks
+*.key
+signing/
+
+# the .modl is attached to a GitHub Release, not committed
+*.modl
+
+.DS_Store
+Thumbs.db
