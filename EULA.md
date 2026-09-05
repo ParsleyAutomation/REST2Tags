@@ -1,7 +1,7 @@
 # End User License Agreement
 
 **REST to Tags** — a software module for Inductive Automation's Ignition platform
-Central Valley Ignition ("CVI")
+Parsley Automation ("PA")
 
 Version 1.0. Effective on installation.
 
@@ -18,13 +18,13 @@ Software displays on its configuration page.
 **Free Tier** means use of the Software without a valid License Key, which polls one distinct API
 URL.
 
-**License Key** means a key issued by CVI that unlocks the Software beyond the Free Tier.
+**License Key** means a key issued by PA that unlocks the Software beyond the Free Tier.
 
 **You** means the individual or entity installing or using the Software.
 
 ## 2. License grant
 
-Subject to this Agreement, CVI grants You a non-exclusive, non-transferable, perpetual license to
+Subject to this Agreement, PA grants You a non-exclusive, non-transferable, perpetual license to
 install and use the Software.
 
 **Free Tier.** You may install and use the Software on any number of Gateways without a License
@@ -53,16 +53,16 @@ e. Remove or alter any copyright, trademark, or other proprietary notice.
 
 ## 4. Ownership
 
-The Software is licensed, not sold. CVI retains all right, title, and interest in the Software,
+The Software is licensed, not sold. PA retains all right, title, and interest in the Software,
 including all intellectual property rights. This Agreement grants You no rights other than the
 license expressly stated in Section 2.
 
 ## 5. Your data and third-party services
 
-The Software connects to HTTP endpoints You configure and reads data from them. CVI does not
+The Software connects to HTTP endpoints You configure and reads data from them. PA does not
 operate those endpoints, does not receive Your data, and does not transmit Your configuration,
-credentials, or data to CVI or any third party. The Software performs no license activation call
-and requires no internet access to CVI.
+credentials, or data to PA or any third party. The Software performs no license activation call
+and requires no internet access to PA.
 
 You are responsible for: the endpoints You configure, Your right to access them, compliance with
 their terms of service, and the security of any credentials You enter. Credentials You enter are
@@ -71,10 +71,10 @@ stored on Your Gateway.
 ## 6. No warranty
 
 THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED. CVI DISCLAIMS ALL WARRANTIES INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF
+IMPLIED. PA DISCLAIMS ALL WARRANTIES INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF
 MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
 
-CVI DOES NOT WARRANT THAT THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, THAT IT WILL OPERATE
+PA DOES NOT WARRANT THAT THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, THAT IT WILL OPERATE
 WITH ANY PARTICULAR ENDPOINT OR VERSION OF IGNITION, OR THAT DATA IT RETRIEVES WILL BE ACCURATE,
 CURRENT, OR AVAILABLE.
 
@@ -84,7 +84,7 @@ CURRENT, OR AVAILABLE.
 shutdown, alarm of last resort, protective interlock, or any other function where failure could
 result in death, personal injury, environmental harm, or significant property damage.**
 
-The Software retrieves data over networks You do not control, from services CVI does not operate.
+The Software retrieves data over networks You do not control, from services PA does not operate.
 Network failures, endpoint outages, rate limiting, and incorrect or delayed third-party data are
 foreseeable and normal. The Software reports data quality to the Ignition platform on a best-effort
 basis; You are responsible for designing Your system so that a failure of the Software, or of any
@@ -92,14 +92,14 @@ endpoint it reads, results in a safe state.
 
 ## 8. Limitation of liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, CVI SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, PA SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
 SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, PRODUCTION,
 OR BUSINESS INTERRUPTION, ARISING OUT OF OR RELATING TO THE SOFTWARE, HOWEVER CAUSED AND ON ANY
 THEORY OF LIABILITY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-CVI'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATING TO THIS AGREEMENT SHALL NOT EXCEED THE
-AMOUNT YOU ACTUALLY PAID CVI FOR THE SOFTWARE IN THE TWELVE MONTHS PRECEDING THE EVENT GIVING RISE
-TO THE CLAIM. WHERE THE SOFTWARE WAS OBTAINED AT NO CHARGE, CVI'S TOTAL LIABILITY SHALL BE ZERO.
+PA'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATING TO THIS AGREEMENT SHALL NOT EXCEED THE
+AMOUNT YOU ACTUALLY PAID PA FOR THE SOFTWARE IN THE TWELVE MONTHS PRECEDING THE EVENT GIVING RISE
+TO THE CLAIM. WHERE THE SOFTWARE WAS OBTAINED AT NO CHARGE, PA'S TOTAL LIABILITY SHALL BE ZERO.
 
 These limitations apply notwithstanding the failure of the essential purpose of any limited remedy.
 Some jurisdictions do not allow certain exclusions or limitations, so parts of this Section may not
@@ -107,8 +107,8 @@ apply to You.
 
 ## 9. Support and updates
 
-CVI may, but is not obliged to, provide support or updates. Any support or update provided is
-governed by this Agreement. CVI may discontinue the Software at any time; a perpetual license
+PA may, but is not obliged to, provide support or updates. Any support or update provided is
+governed by this Agreement. PA may discontinue the Software at any time; a perpetual license
 already granted survives discontinuation.
 
 ## 10. Term and termination
@@ -125,15 +125,15 @@ An expired License Key does not terminate this Agreement; the Software reverts t
 regard to its conflict of law rules. The exclusive venue for any dispute is the state and federal
 courts located in California.
 
-**Entire agreement.** This Agreement is the entire agreement between You and CVI regarding the
-Software and supersedes any prior understanding. It may be amended only in a writing signed by CVI.
+**Entire agreement.** This Agreement is the entire agreement between You and PA regarding the
+Software and supersedes any prior understanding. It may be amended only in a writing signed by PA.
 
 **Severability.** If any provision is held unenforceable, it shall be modified to the minimum extent
 necessary to make it enforceable, and the remaining provisions remain in full force.
 
 **No waiver.** A failure to enforce any provision is not a waiver of it.
 
-**Assignment.** You may not assign this Agreement without CVI's prior written consent, except to a
+**Assignment.** You may not assign this Agreement without PA's prior written consent, except to a
 successor of Your entire business, provided the successor agrees to these terms.
 
 **Third-party components.** The Software is built on the Ignition Module SDK and is subject to
@@ -142,4 +142,4 @@ libraries.
 
 ---
 
-Central Valley Ignition · centralvalleyignition.com
+Parsley Automation · parsleyautomation.com

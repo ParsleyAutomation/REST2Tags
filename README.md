@@ -32,7 +32,7 @@ source reports its true age.
 
 Get the latest `.modl` from [Releases](../../releases).
 
-The module is signed with Central Valley Ignition's certificate. Ignition will ask you to accept
+The module is signed with Parsley Automation's certificate. Ignition will ask you to accept
 it on first install. Verify the fingerprint matches:
 
 ```
@@ -44,7 +44,7 @@ SHA-256  FC:62:F4:68:A5:0D:AA:57:D4:6E:B6:05:BE:C0:5E:C9:C4:C3:DE:79:A5:14:02:20
 - Ignition **8.3.0 or later**. Built against the 8.3 SDK; it will not install on 8.1.
 - Works on Standard, Edge and **Maker** editions.
 - The gateway needs network access to whatever endpoints you configure. Nothing else — the module
-  never contacts CVI.
+  never contacts Parsley Automation.
 - JSON responses. XML and CSV are not supported.
 
 ## Install
@@ -125,11 +125,11 @@ Apply — it takes effect immediately, with no reinstall and no restart.
 gateways you have not built yet.
 
 Licensing is entirely offline. The module makes no activation call and needs no internet access to
-CVI, so it works on air-gapped OT networks.
+Parsley Automation, so it works on air-gapped OT networks.
 
 ## Support
 
-Open an [issue](../../issues) or email support@centralvalleyignition.com.
+Open an [issue](../../issues) or email support@parsleyautomation.com.
 
 Please include your Ignition version, the module version, what the source's diagnostics tags show,
 and the relevant lines from `wrapper.log`.
@@ -138,10 +138,10 @@ and the relevant lines from `wrapper.log`.
 
 Proprietary. See [EULA.md](EULA.md).
 
-**No third-party code.** The module bundles no external libraries — only Central Valley Ignition's
+**No third-party code.** The module bundles no external libraries — only Parsley Automation's
 own code. This is enforced by an automated check on every build, so there are no third-party
 licenses or CVEs to review before putting it on a gateway.
 
 ---
 
-Central Valley Ignition · [centralvalleyignition.com](https://centralvalleyignition.com)
+Parsley Automation · [parsleyautomation.com](https://parsleyautomation.com)
